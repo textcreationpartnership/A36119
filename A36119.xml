@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Discovery of a great plot intended against the city of London to have robbed and murthered the citizens and inhabitants, and the names of the actors ; also the victory at Arundell Castle obtained by Sir William Waller ... together with a full satisfaction concerning the three queries about the great controversie and different opinions of the observing of holy dayes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36119</idno>
+            <idno type="STC">Wing D1634</idno>
+            <idno type="STC">ESTC R29735</idno>
+            <idno type="EEBO-CITATION">11199903</idno>
+            <idno type="OCLC">ocm 11199903</idno>
+            <idno type="VID">46703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Discovery of a great plot intended against the city of London to have robbed and murthered the citizens and inhabitants, and the names of the actors ; also the victory at Arundell Castle obtained by Sir William Waller ... together with a full satisfaction concerning the three queries about the great controversie and different opinions of the observing of holy dayes.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for And. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 8, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published according to order."</note>
+                  <note>Imperfect: print showthrough with some loss of print.</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46703:1"/>
+            <pb facs="tcp:46703:1"/>
+            <p>THE DISCOVERY OF A GREAT PLOT INTENDED Againſt the City of LONDON, to have robbed, and murthered the Citizens and Inhabitants: And the Names of the Actors.</p>
+            <p>ALSO, The victory at Arundell Caſtle, obtained by Sir WILLIAM WALLER;</p>
+            <p>And the taking of:
+<list>
+                  <item>2. Ladies.</item>
+                  <item>4. Collonels.</item>
+                  <item>3. Sergeant Maiors.</item>
+                  <item>12. Lieut. Collonels and Captains</item>
+                  <item>90. New Captains for the Commiſ<g ref="char:EOLhyphen"/>ſion of Array.</item>
+                  <item>100. Gentlemen.</item>
+                  <item>50. Gentlewomen.</item>
+                  <item>4000. pound in money.</item>
+                  <item>25. Barrels of Gunpowder.</item>
+                  <item>1000. Common ſouldiers, with other rich commodities.</item>
+               </list>
+            </p>
+            <p>
+               <hi>TOGETHER WITH</hi> A Full Satisfaction, concerning the three Queries about the great Controverſie and different Opinions of the Obſerving of Holy dayes.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>Ian: 8. London, Printed for AND: COE. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46703:2"/>
+            <head>Full Satisfaction concerning the three Quaeries about the great Controverſie and different opinions of the obſerving of <hi>Holy dayes.</hi>
+            </head>
+            <p n="1">1. Quer. <hi>VVhether the Inſtitution of other Holy dayes beſides the Sabboth, be of Divine Right?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> THat which is of divine Right, is recorded in holy Scripture to be expreſly commanded by God, or warrantably practiſed by his people. But ſo are none of our Holy dayes. <hi>Ergo,</hi> not of Divine Right.</p>
+            <p n="2">2. Quer. <hi>VVhether there by any Precept or example Apoſtolicall, to warrant or condemne the celebrating of any ſuch dayes, or neither.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This Quere is needleſſe: but to give further ſatisfa<g ref="char:EOLhyphen"/>ction. In Scripture there is no ſuch precept, but the ſuperſti<g ref="char:EOLhyphen"/>tious obſervation thereof is ſo farre forbidden, that <hi>Paul</hi> would have us ſo to carry our ſelves herein, that no man may condemn us for the ſuperſtitious reſpect of an Holy day. <hi>Coloſſ.</hi> 2.16. But the third is the main Querie intended.</p>
+            <p n="3">3. Quer. <hi>VVhether the Church and Civill Magiſtrate, have Au<g ref="char:EOLhyphen"/>thority to iuſtitute any ſuch yeerly Feſtivals?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We are here to underſtand who is meant by the Church and Civill Magiſtrates; and that firſt negatively, not ſuch as the Apoſtles in the primitive Church, for they were ſpoken of in the former queries: but affirmatively the Church now remaining, and the Governours and Officers thereof: To which we anſwer. That in reſpect of civill obedience they may impoſe lawfull commands on certain dayes, but have no power to conſecrate a day, or make it holy. The Sillogiſme is this.</p>
+            <p>If we finde that the Church and Civill Magiſtrate, or either have authority in godly policy and civill reſpects to appoint
+<pb facs="tcp:46703:2"/>the ſolemnity of yearely Feſtivall dayes, the Holy dayes by them appointed may be obſerved: but they have authority (if they ſee it expedient) <hi>Ergo,</hi> they may be obſerved.</p>
+            <p>But this argument of theirs proves nothing, to impoſe a ne<g ref="char:EOLhyphen"/>ceſſity, or that the conſcience is bound to obſerve ſuch dayes, as more holy then others: no more then if one ſhould ſay, We are bound in conſcience to ſpend all we have in houſe-keeping this Chriſtmas: For if the Miniſters and Churchwardens have authority to beg our charity for the poor, we may give them all we have. But they have ſuch authority, therefore in con<g ref="char:EOLhyphen"/>ſcience we muſt give away all: this proves nothing, but to ſearch the particulars more exactly.</p>
+            <p n="1">1. The Major they prove thus. <hi>That the Church or Civill Ma<g ref="char:EOLhyphen"/>giſtrate have Authority to appoint and inſtitute yearly Feſtivals in policy and civill reſpects, is warrantable by the example of</hi> Purim. Eſther. <hi>the</hi> 9. Mordecheus <hi>and</hi> Eſther, <hi>appointed a new Feſtivall day, not inſtituted of God and binde every one to the obſerving there<g ref="char:EOLhyphen"/>of, that none ſhould fail to obſerve it.</hi> Verſe 27. <hi>From this</hi> Bellar<g ref="char:EOLhyphen"/>mine <hi>concludes, That men are bound in conſcience to obſerve Feſti<g ref="char:EOLhyphen"/>vall dayes.</hi> Bellar. cap. 10. <hi>So alſo our</hi> Doway <hi>Men. pag.</hi> 1050.</p>
+            <p>
+               <hi>Anſw.</hi> 1. Though we do not utterly reject Feſtivall dayes yet we acknowledge none neceſſary (ſaith Doctor <hi>VVillet</hi>) more then are of the Holy Ghoſts appointing in the Scripture. 2. We deny that the conſtitutions of the Church do binde chriſtians, in reſpect of the dayes themſelves, in conſcience to keep them, otherwiſe then they may give offence by their contempt and diſobedience to the wholſome decrees of the Church: for it ſelfe in its owne nature is indifferent: nothing bindeth abſo<g ref="char:EOLhyphen"/>lutely in conſcience but that which is warranted by did Word. Wherefore keeping of Holy dayes being not enjoyned, but left indifferent in the Word, bindeth no otherwiſe, then as we have ſaid. 3. The example of <hi>Esther,</hi> did binde the obſerver in conſcience, not in regard of the day, but of the promiſe, which was made for themſelves and their ſeed, to keep it: but
+<pb facs="tcp:46703:3"/>firſt their conſent was required: and therfore there was no feaſt inſtituted for that ſo miraculous a paſſage over <hi>Jordan:</hi> none for the walles of the fall of <hi>Jerico:</hi> nor for the ſlaughter of the <hi>Midianites</hi> in the time of <hi>Gideon:</hi> nor for that other no leſſe ad<g ref="char:EOLhyphen"/>mirable of the <hi>Ammonites</hi> and other people confederate in the dayes of <hi>Jehoſhophat,</hi> neyther for that of the <hi>Aſſyrians</hi> when the Angell of God deſtroyed the whole hoaſt. And who can reckon up thoſe ſo many the like miraculous deliverances, for remembrance whereof notwithſtanding there were no ſolemn dayes dedicated. <hi>Ser.</hi> 25. on <hi>Eſther.</hi> 9.4. <hi>Mordecheus</hi> beſides his ordinary authority as a chiefe Governour, had alſo ſome Propheticall directions to inſtitute this day of rejoycing (being held to have written alſo that Book of <hi>Eſther</hi>) which cannot now be drawn to an ordinary preſident. 5. Laſtly, it ſeemeth rather to have been appointed as a Feſtivall day of rejoycing, and thankeſgiving, for the joyfull remembrance of that deli<g ref="char:EOLhyphen"/>verance, then as a new Holy day to be kept with that ſtrickt<g ref="char:EOLhyphen"/>nes, as the Holy dayes appointed by the Law: for they kept it with joy and feaſting, and ſending preſents one to another. <hi>v.</hi> 19 Like as now in the Church of <hi>England,</hi> the 5. of <hi>Novemb.</hi> is ap<g ref="char:EOLhyphen"/>pointed by Act of Parliament to be celebrated, not as a new ho<g ref="char:EOLhyphen"/>ly day, with Injunctions of abſtinence from worke the whole day, but only to aſſemble together in the Congregation, to give God thanks for ſo great a deliverance. 2. <hi>They bring in the ex<g ref="char:EOLhyphen"/>ample of the dedication of the Temple, to which I anſwer.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. There was no yearly memory thereof kept nor in<g ref="char:EOLhyphen"/>ſtituted; neyther for the reſtitution of the Temple by <hi>EZekiah,</hi> after the prophanation thereof by <hi>Ahaz</hi> and <hi>Urias,</hi> nor by <hi>Ioſias</hi> after the ſame had been moſt horribly polluted by <hi>Manaſſes</hi> and <hi>Amon.</hi> Nor by <hi>Zerobbabel, Eſdras,</hi> or <hi>Nehemiah,</hi> after it was re<g ref="char:EOLhyphen"/>edified: when it had been utterly deſtroyed by the <hi>Chaldees.</hi> 2. Theſe were ſhadowes of the things to come, but the body is in Chriſt. The firſt Argument you ſee is nothing worth: The minor they prove thus:</p>
+            <pb facs="tcp:46703:3"/>
+            <p> 
+               <hi>If the Church or Magiſtrate may celebrate Feſtivalls for tem<g ref="char:EOLhyphen"/>porall mercies, they may doe it for ſpirituall mercies, and appoint dayes for the one, as well as for the other.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> The difference is not in the cauſe, but in the thing: not about the matter for which the dayes are celebrated, but how farre the celebration it ſelfe is ſuperſtitious, and what is binding, and therefore we ſhall proceed to the enſuing conſi<g ref="char:EOLhyphen"/>derations</p>
+            <p n="1">1. <hi>Whether an holineſſe may be aſcribed to theſe dayes, or whe<g ref="char:EOLhyphen"/>ther they be only indifferent, and meerely civill and politic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll. But aſsuredly no holineſſe is to be aſcribed, and therefore not neceſſary, though ſome times expedient.</hi>
+            </p>
+            <p>That they are indifferent is proved already, and holineſſe not to be aſcribed to the day. And therefore it is recorded in the confeſſion of <hi>Augsburg. Art.</hi> 4. That concerning Feſtivall da<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es &amp;c. they are things indifferent, which where is no danger of giving offence, may be well omitted. And let them therefore be pleaded never ſo expedient binding to the conſcience, they cannot be.</p>
+            <p>
+               <hi>So then it will neceſſarily follow</hi> (as themſelves cannot deny) <hi>that theſe dayes being no more holy then others to be obſerved</hi> (ex<g ref="char:EOLhyphen"/>cept for ſome civill obedience temporalls to the Magiſtrate) <hi>or in ſome caſes for ſome thankfull remembrance, to praiſe God for ſome deliverance or mercy received, Chriſtians are not bound in con<g ref="char:EOLhyphen"/>ſcience to obſerve them, nor in the obſerving thereof to attribute holineſſe to theſe dayes above others.</hi>
+            </p>
+            <p>
+               <hi>So that in ſome reſpects we agree in the generall rule, that in all different things, of civill uſe,</hi> (in temporall reſpects) <hi>the Magi<g ref="char:EOLhyphen"/>ſtrate may command and we are bound to obey, either for the obſer<g ref="char:EOLhyphen"/>ving a day, or the not obſerving a day,</hi> (where the Scripture is ſi<g ref="char:EOLhyphen"/>lent and conſcience free) <hi>But in things of Religious uſe in the wor<g ref="char:EOLhyphen"/>ſhip of God: we are to obey nothing by the pretended Authority of the the Church. But what Gods word expreſſely commands, or for which we have expreſſe precept, in things of Religion, and worſhip, the Scri<g ref="char:EOLhyphen"/>pture muſt command the Church and Magiſtrate.</hi>
+            </p>
+            <pb facs="tcp:46703:4"/>
+            <p> But whereas they ſay <hi>in civill indifferent things the Church and Magiſtrate, may command us.</hi>
+            </p>
+            <p>
+               <hi>Anſwers.</hi> This muſt exactly be obſerved; that without au<g ref="char:EOLhyphen"/>thority from the word of God, they cannot binde the conſci<g ref="char:EOLhyphen"/>ence. And therefore according to their owne rule, <hi>we are to en<g ref="char:EOLhyphen"/>quire, wherein, or in what caſes, the obſerving of ſuch dayes may be expedient, and in what caſes not expedient.</hi> It is expedient, as be<g ref="char:EOLhyphen"/>fore upon the receiving of ſome bleſſing from God. <hi>The re<g ref="char:EOLhyphen"/>membrance of which ſhould be kept not by attributing holineſſe to the day, as hath been formerly the cuſtome:</hi> Whereby 1. Aroſe an o<g ref="char:EOLhyphen"/>pinion of a neceſſity even with feare of ſin for the breaking of them, which is contrary unto the Chriſtian liberty. 2. The holineſſe of one day was accounted greater then of another, as though Gods grace was moſt eaſily found, and more largely granted on the feſtivall dayes, then on others, and in this feaſt, rather then in that. 3. There was alſo joyned an opinion of merrit even by the work it ſelfe wrought, as though by the cea<g ref="char:EOLhyphen"/>ſing on ſuch dayes from worke they, had done an holy Act. 4. There followed a neglect to heare Gods word on other dayes. 5. And laſtly, There iſſued a carefull and ſcrupulous ceaſing from all handiwork, after the manner of the Iewes, and the obſervation of the time of the Feaſt, from one twilight, un<g ref="char:EOLhyphen"/>to the other. And therefore by the common Lawes: <hi>Ad animae periculum pertinent ſuperſtitioſa temporum obſervationes:</hi> ſupe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtiti<g ref="char:EOLhyphen"/>ous obſervation of dayes bringeth danger to the ſoule.</p>
+            <p>Neither indeed was it <hi>Mordicheu's</hi> purpoſe, to inſtitute any new worſhip of God: and to aſcribe unto the dayes of <hi>Purim,</hi> (which example is ſo much alleadged) any greater holineſſe, then unto other dayes, neither to binde any mans conſcience to the obſervation of this Ordinance, as they are to thoſe things which God himſelfe hath commanded; But whereas God hath granted unto man ſix dayes of labour, and hath left it to his will, either to labour, or to imploy it in holy things, as ſaith <hi>Merlyn. Mordicheus</hi> only reſpected this, that theſe dayes ſhould
+<pb facs="tcp:46703:4"/>rather be beſtowed in the remembrance of the benefits of God: and in giving thanks for ſuch a deliverance, then to binde the conſcience ſo from handy work, the reſt of the day as if God himſelfe had commanded it out of abſolute neceſsity. And thus the nativity of Chriſt: the Epiphany &amp;c. are to be obſerved. We have now many holy dayes in our Kallender, but of old; for the ſpace of foure hundred yeares after Chriſt, theſe were the only ſolemne Feaſts in the Church. <hi>Eaſter, Whitſontide, the nativity of Ieſus Chriſt</hi> the <hi>Aſcention</hi> and the <hi>Epiphany.</hi>
+            </p>
+            <p n="2">2. And therefore to conclude with the laſt conſideration, conſider that when by obſerving any ſuch day: God is either by ſuperſtition or prophaneſſe diſhonoured: (although the re<g ref="char:EOLhyphen"/>membrance of the mercy of God be required) yet the day is not to be kept; except ſuch abuſes be taken away, but neceſſa<g ref="char:EOLhyphen"/>ry to be ſuppreſſed, and forbidden. Therefore the Church, and Magiſtrate, have power to ſuppreſſe and forbid them, when they are either inſtituted to a ſuperſtitious uſe, or uſed pro<g ref="char:EOLhyphen"/>phanely, and ſo, though the nativity of Chriſt, and other Fe<g ref="char:EOLhyphen"/>ſtivalls may be celebrated, yet as they were inſtituted to a ſu<g ref="char:EOLhyphen"/>perſtitious uſe, and are frequently abuſed to a carnall liberty, and prophaneſſe, it is neceſſary, they ſhould bee reformed: in name, end, and uſe. For, 1. No day dedicated to an Idoll is lawfull to be obſerved, but Chriſt-mas day is dedicated to the Idoll of the Maſſe, and others, dedicated to Saints, and there<g ref="char:EOLhyphen"/>fore ought be reformed. 5. The end is to give power to the Prelates, to trample upon our conſciences. 3. And laſtly, the uſe is very prophane, to dedicate dayes to Saints, is to aſcribe that to the creature, which is onely proper to the Creatour: which is Idolatry. And every Proteſtant is bound, ſo farre as the celebration of Chriſts nativity or other Feſtivall dayes are Idolatrous, or Heatheniſh to the indeavour to have them pur<g ref="char:EOLhyphen"/>ged.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
